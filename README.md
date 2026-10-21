@@ -1,7 +1,6 @@
 # Stock-Market-Analysis-of-Microsoft
-https://github.com/PrakulD7/Stock-Market-Analysis-of-Microsoft/blob/main/Dashboard.png
-# Microsoft Stock Market Analysis Dashboard (1986–2022)
 
+# Microsoft Stock Market Analysis Dashboard (1986–2022)
 **Tools & Technologies:** Microsoft Excel, Power Query, Power BI
 **Data Source:** Kaggle
 **Project Domain:** Data Analytics | Financial Data Visualization | Business Intelligence
@@ -90,4 +89,4 @@ This dashboard transforms historical stock market data into an interactive analy
 - **Interactive analysis:** Use year and quarter filters to examine specific periods.
 
 ## 6. Screenshot / Demo
- 
+ https://github.com/PrakulD7/Stock-Market-Analysis-of-Microsoft/blob/main/Dashboard.png
